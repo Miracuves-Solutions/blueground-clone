@@ -1,11 +1,11 @@
 # Blueground Clone — White-Label Short-Term Rental & Booking Platform by Miracuves
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-Try_Now-e8344f?style=for-the-badge)](https://mxestate.mimeld.com)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Try_Now-e8344f?style=for-the-badge)](https://mxdemo.mimeld.com)
 [![Website](https://img.shields.io/badge/Solution_Page-miracuves.com-0b0b10?style=for-the-badge)](https://miracuves.com/blueground-clone/)
-[![Delivery](https://img.shields.io/badge/Go_Live-6_Working_Days-2ecc8f?style=for-the-badge)](https://miracuves.com/blueground-clone/#pricing)
-[![Support](https://img.shields.io/badge/Support-60_Days_+_12mo_Updates-blue?style=for-the-badge)](https://miracuves.com/facts/)
+[![Delivery](https://img.shields.io/badge/Go_Live-6_Working_Days-2ecc8f?style=for-the-badge)](https://miracuves.com/blueground-clone/#features)
+[![Support](https://img.shields.io/badge/Support-60_Days_+_12mo_Updates-blue?style=for-the-badge)](https://miracuves.com/blueground-clone/#features)
 
-**MXEstate** is a production-ready, white-label Blueground clone: a complete short-term rental platform with guest, host, and admin panels — delivered with **100% source code ownership** in **6 working days**.
+**MXDemo** is a production-ready, white-label Blueground clone: a complete short-term rental platform with guest, host, and admin panels — delivered with **100% source code ownership** in **6 working days**.
 
 > 🏠 **See it running before you talk to anyone.** Live guest app, host dashboard, and admin console — demo credentials are printed on the [solution page](https://miracuves.com/blueground-clone#demo). No sales call required.
 
@@ -16,7 +16,7 @@
 | Environment | URL | What you can test |
 |---|---|---|
 | 📱 Guest App | [mas.mimeld.com](https://mas.mimeld.com) | Search, book, pay, review, message host |
-| 🌐 Web Booking | [mxestate.mimeld.com](https://mxestate.mimeld.com) | Full booking experience in the browser |
+| 🌐 Web Booking | [mxdemo.mimeld.com](https://mxdemo.mimeld.com) | Full booking experience in the browser |
 | 🏡 Host Dashboard | [Solution page → Demo](https://miracuves.com/blueground-clone#demo) | Listings, calendar, pricing, messaging, payouts |
 | 🛠️ Admin Console | [Solution page → Demo](https://miracuves.com/blueground-clone#demo) | Hosts, listings, payments, disputes, analytics |
 
@@ -71,7 +71,7 @@ flowchart LR
 - ✅ 60 days post-launch support + 12 months of free updates
 - ✅ Documentation & handover
 
-**Pricing:** from **$8,499**, transparent on the [solution page](https://miracuves.com/blueground-clone/#pricing) — no "contact us for quote" games.
+**Pricing:** from **$8,499**, transparent on the [solution page](https://miracuves.com/blueground-clone/#features) — no "contact us for quote" games.
 
 ## 🆚 Why Not Build From Scratch?
 
@@ -80,10 +80,12 @@ Custom rental platforms run $80k–$400k and 6–12 months. A proven white-label
 ## 📚 Resources
 
 - 📖 [Blueground Clone — Full Solution Page](https://miracuves.com/blueground-clone) (features, pricing, demos, FAQ)
-- 💰 [How Much Does a Rental App Cost in 2026?](https://miracuves.com/blueground-clone#pricing) pricing breakdown & what's included
-- 📝 [Best Blueground Clone Script in 2026](https://miracuves.com/blueground-clone/blog/) features, pricing & launch guide
-- 🧠 [Dynamic Pricing for Short-Term Rentals](https://miracuves.com/blueground-clone/blog/) demand-based revenue management
-- ✅ [Miracuves Facts & Claims Ledger](https://miracuves.com/blueground-clone/facts/) every claim we make, verified
+- 💰 [How Much Does a Rental App Cost in 2026?](https://miracuves.com/blueground-clone#features) pricing breakdown & what's included
+- 📝 [Best Blueground Clone Script in 2026](https://miracuves.com/blueground-clone#features) features, pricing & launch guide
+- 🧠 [Dynamic Pricing for Short-Term Rentals](https://miracuves.com/blueground-clone#features) demand-based revenue management
+- ✅ [Miracuves Facts & Claims Ledger](https://miracuves.com/blueground-clone#faq) every claim we make, verified
+- 💻 [Blueground Clone — Technical Stack](https://miracuves.com/blueground-clone#techstack) languages, databases, infra, payments, hosting
+- 🔄 [Blueground Clone — How It Works / User Flow](https://miracuves.com/blueground-clone#flow) step-by-step product walkthrough
 
 ## 🏢 About Miracuves
 
@@ -95,7 +97,7 @@ Custom rental platforms run $80k–$400k and 6–12 months. A proven white-label
 
 ### ⚠️ Note on This Repository
 
-This repository is a product overview. The full source code is delivered to clients on purchase — see [what’s included](https://miracuves.com/blueground-clone/#included). For a hands-on evaluation, use the live demos above; credentials are public on the solution page.
+This repository is a product overview. The full source code is delivered to clients on purchase — see [what’s included](https://miracuves.com/blueground-clone/#features). For a hands-on evaluation, use the live demos above; credentials are public on the solution page.
 
 *Keywords: blueground clone, blueground clone script, rental marketplace, vacation rental, short-term rental, white label Airbnb, Flutter rental app, Node.js rental platform*
 
@@ -106,9 +108,9 @@ This repository is a product overview. The full source code is delivered to clie
 TEMPLATE VARIABLE KEY — auto-generated from Netflix-Clone pattern
 ══════════════════════════════════════════════════
 {APP_NAME}        Blueground Clone
-{MX_NAME}         MXEstate
+{MX_NAME}         MXDemo
 {CATEGORY}        Short-Term Rental & Booking Platform
-{DEMO_WEB}        mxestate.mimeld.com
+{DEMO_WEB}        mxdemo.mimeld.com
 {PRICE}           $8,499
 {SLUG}            blueground-clone
 {SOLUTION_URL}    https://miracuves.com/blueground-clone/
